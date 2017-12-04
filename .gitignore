@@ -2,8 +2,8 @@ node_modules
 font
 js
 css
-index.html
-index2.html
+/index.html
+/index2.html
 package.json
 webpack.config.js
 .gitignore
