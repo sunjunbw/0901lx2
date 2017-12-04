@@ -1,6 +1,10 @@
 node_modules
 font
-img
 js
 css
-.
+index.html
+index2.html
+package.json
+webpack.config.js
+.gitignore
+a.txt
