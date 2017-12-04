@@ -17,7 +17,15 @@ module.exports={
    	  		},
    	  		{
                 test: /\.(eot|woff|woff2|svg|ttf)([\?]?.*)$/,
-                use: "file-loader"
+                use:{
+                	loader:"file-loader",
+                	options:{
+                		name:'font/[name].[ext]'
+                	}
+                } 
+                
+               
+             
             }
    	  		
    	  ]

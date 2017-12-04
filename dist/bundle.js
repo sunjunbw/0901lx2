@@ -67,7 +67,7 @@
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "cd085dc1647a26eb66a2b714a237ced4.eot";
+module.exports = __webpack_require__.p + "font/iconfont.eot";
 
 /***/ }),
 /* 1 */
@@ -211,19 +211,19 @@ function toComment(sourceMap) {
 /* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "8246b4fef4f14314816eaaae9ab7d0c9.woff";
+module.exports = __webpack_require__.p + "font/iconfont.woff";
 
 /***/ }),
 /* 6 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "5bc6e9cf0df0c6c67f00a921851f18ab.ttf";
+module.exports = __webpack_require__.p + "font/iconfont.ttf";
 
 /***/ }),
 /* 7 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "505e09111bdcacb6f8cc9d689005ad68.svg";
+module.exports = __webpack_require__.p + "font/iconfont.svg";
 
 /***/ }),
 /* 8 */
