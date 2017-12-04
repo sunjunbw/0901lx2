@@ -1,4 +1,5 @@
 var path=require("path");
+var HtmlWebpackPlugin=require("html-webpack-plugin");
 module.exports={
    entry:'./js/index.js',
    output:{
@@ -33,7 +34,13 @@ module.exports={
    },
    resolve:{
    		extensions:[".js",".css"]
-   }
+   },
+   plugins:[
+   		new HtmlWebpackPlugin({
+   	
+   			template:'./index2.html'
+   		})
+   ]
 	
 	
 	
