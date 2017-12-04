@@ -67,7 +67,7 @@
 /* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "font/iconfont.eot";
+module.exports = __webpack_require__.p + "fonts/iconfont.eot";
 
 /***/ }),
 /* 1 */
@@ -211,19 +211,19 @@ function toComment(sourceMap) {
 /* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "font/iconfont.woff";
+module.exports = __webpack_require__.p + "fonts/iconfont.woff";
 
 /***/ }),
 /* 6 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "font/iconfont.ttf";
+module.exports = __webpack_require__.p + "fonts/iconfont.ttf";
 
 /***/ }),
 /* 7 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "font/iconfont.svg";
+module.exports = __webpack_require__.p + "fonts/iconfont.svg";
 
 /***/ }),
 /* 8 */
